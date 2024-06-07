@@ -59,7 +59,7 @@ class _Aula07_06State extends State<Aula07_06> {
         ),
         child: AnimatedTextKit(
           animatedTexts: [
-            FadeAnimatedText('do IT!'),
+            FadeAnimatedText('do IT!!'),
             FadeAnimatedText('do it RIGHT!!'),
             FadeAnimatedText('do it RIGHT NOW!!!'),
           ],
